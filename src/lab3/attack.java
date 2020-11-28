@@ -11,8 +11,7 @@ public class attack {
 	private double PPrequired;
 	private double damage;
 	
-	//default constructor
-	public attack() {} 
+	public attack() {}
 	
 	//parametrized constructor
 	public attack(String n, double PPr, double d) {
