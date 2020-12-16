@@ -1,5 +1,5 @@
 # Pokemon Console Game
-OOP-Class lab
+JAVA project for CSC330(OOP) class at CUNY College of Staten Island
 
 ## Description
 Basic pokemon fighting game, where a user can choose one of the three pokemons to play against the computer whose actions are randomized
